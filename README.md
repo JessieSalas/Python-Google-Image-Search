@@ -8,9 +8,10 @@ Use:
 1. Place the .py file in your directory and write " from image_search import * " at the top of the file you want to use this module in.
     
 2. Get a list of image results by calling 
-    
+
     image_search("my query", n)
     
+
 where n is the amount of results you want.
 
     
