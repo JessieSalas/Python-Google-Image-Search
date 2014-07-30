@@ -10,6 +10,8 @@ Use:
 2. Get a list of image results by calling 
 
 
+
+
     image_search("my query", n)
     
 
