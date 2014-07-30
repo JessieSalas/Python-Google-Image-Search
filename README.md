@@ -14,6 +14,15 @@ Use:
         
     
 
+
+
+
+
+    image_search("query", n) 
+        
+    
+
+
 where n is the amount of results you want.
 
     
